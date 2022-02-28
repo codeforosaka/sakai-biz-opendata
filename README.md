@@ -11,12 +11,12 @@
 - offset: オフセット
 - limit: 取得件数
 
-## API使用例
-
-- [さかしるガチャ](https://codeforosaka.github.io/sakai-biz-opendata-sample-app/)
-- https://github.com/codeforosaka/sakai-biz-opendata-sample-app
-
 ## ライセンス
 
 - 本データは、CC BY、ODC-By、ODbL のいずれかに従ってご利用いただけるオープンデータです。
 - 出典表示例「出典: 堺市 企業オープンデータ by [さかしる](https://sakacil.com/)」
+
+## API使用例
+
+- [さかしるガチャ](https://codeforosaka.github.io/sakai-biz-opendata-sample-app/)
+- https://github.com/codeforosaka/sakai-biz-opendata-sample-app
