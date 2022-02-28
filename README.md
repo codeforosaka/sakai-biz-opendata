@@ -3,6 +3,14 @@
 - [APIで取得した、さかしるデータ (CSV)](https://codeforosaka.github.io/sakai-biz-opendata/company_all.csv)
 - [APIで取得した、さかしるデータ（画像のみ） (CSV)](https://codeforosaka.github.io/sakai-biz-opendata/company_images.csv) [(JSON)](https://codeforosaka.github.io/sakai-biz-opendata/company_images.json)
 
+## API
+
+### 堺市 企業オープンデータ取得API
+
+- https://io.sakacil.com/api/info/list?{"offset":0,"limit":100}
+- offset: オフセット
+- limit: 取得件数
+
 ## ライセンス
 
 - 本データは、CC BY、ODC-By、ODbL のいずれかに従ってご利用いただけるオープンデータです。
