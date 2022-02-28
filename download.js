@@ -10,6 +10,10 @@ for (;;) {
   const d = await (await fetch(url + "?" + JSON.stringify(req))).json();
   console.log(d);
   for (const dd of d.data) {
+    if (!dd.法人番号) {
+      console.log("!!法人番号なし", dd);
+      continue;
+    }
     await Deno.writeTextFile("data/company/" + dd.法人番号 + ".json", JSON.stringify(dd, null, 2));
     data.push(dd);
   }
