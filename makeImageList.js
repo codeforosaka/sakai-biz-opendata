@@ -11,6 +11,7 @@ data.forEach(d => {
     }
   }
 });
+imgs.sort((a, b) => a.companyId.localeCompare(b.companyId));
 await Deno.writeTextFile("data/company_images.csv", CSV.stringify(imgs));
 await Deno.writeTextFile("data/company_images.json", JSON.stringify(imgs, null, 2));
 
