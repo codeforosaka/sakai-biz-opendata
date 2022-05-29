@@ -19,4 +19,4 @@
 ## API使用例
 
 - [さかしるガチャ](https://codeforosaka.github.io/sakai-biz-opendata-sample-app/)
-- https://github.com/codeforosaka/sakai-biz-opendata-sample-app
+- [大阪堺市の企業フォト巡り](https://code4fukui.github.io/bizmegly/sakai.html)
