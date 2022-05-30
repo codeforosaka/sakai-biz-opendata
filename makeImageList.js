@@ -1,4 +1,5 @@
 import { CSV } from "https://js.sabae.cc/CSV.js";
+import { writeData } from "./writeData.js";
 
 const fn = "data/company_all.csv";
 const data = CSV.toJSON(await CSV.fetch(fn));
@@ -12,5 +13,4 @@ data.forEach(d => {
   }
 });
 imgs.sort((a, b) => a.companyId.localeCompare(b.companyId));
-await Deno.writeTextFile("data/company_images.csv", CSV.stringify(imgs));
-await Deno.writeTextFile("data/company_images.json", JSON.stringify(imgs, null, 2));
+await writeData("data/company_images", imgs);

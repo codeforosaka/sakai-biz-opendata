@@ -1,4 +1,4 @@
-import { CSV } from "https://js.sabae.cc/CSV.js";
+import { writeData } from "./writeData.js";
 
 const url = "https://io.sakacil.com/api/info/list";
 
@@ -22,5 +22,4 @@ for (;;) {
   }
   offset += d.length;
 }
-await Deno.writeTextFile("data/company_all.csv", CSV.stringify(data));
-
+await writeData("data/company_all", data);
