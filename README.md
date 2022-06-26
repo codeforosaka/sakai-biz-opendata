@@ -11,6 +11,7 @@
 - https://io.sakacil.com/api/info/list?{"offset":0,"limit":100}
 - offset: オフセット
 - limit: 取得件数
+- order: "moddate" を指定すると更新順 （指定しないと法人番号順）
 
 ## ライセンス
 
