@@ -18,7 +18,8 @@
 ② limit: 取得件数　何件の企業情報を取得するかを数字で指定  
 ③ order: "moddate" を指定すると更新順 （指定しないと法人番号順)  
 クエリパラメーターが不正な場合は offset:0 limit:3000 order:法人番号順　が取得される  
-取得URL例  
+  
+**取得URL例**  
 https://io.sakacil.com/api/info/list?{"offset":0,"limit":100}  
 法人番号順に100件の企業情報を取得する  
   
