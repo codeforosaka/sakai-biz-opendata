@@ -1,7 +1,11 @@
 # 堺市 企業オープンデータ
 
-- [APIで取得した、さかしるデータ (CSV)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_all.csv) [(JSON)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_all.json)  [(CBOR)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_all.cbor)
-- [APIで取得した、さかしるデータ（画像のみ） (CSV)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_images.csv) [(JSON)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_images.json) [(CBOR)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_images.cbor) *CSV 店舗・事務所情報はJSON形式の文字列
+- [APIで取得した、さかしるデータ (CSV)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_all.csv)
+<!--  [(JSON)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_all.json)
+-  [(CBOR)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_all.cbor) -->
+- [APIで取得した、さかしるデータ（画像のみ） (CSV)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_images.csv)
+<!--   [(JSON)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_images.json)
+-   [(CBOR)](https://codeforosaka.github.io/sakai-biz-opendata/data/company_images.cbor) *CSV 店舗・事務所情報はJSON形式の文字列 -->
 - [支援オープンデータ 堺市支援センター](https://io.sakacil.com/opendata/support.csv)
 - [支援オープンデータ 大阪府（堺市支援センター入力）](https://io.sakacil.com/opendata/support_osaka.csv)
 <!--  じばしんから削除要望あったため削除 2024/1/29　岡部 -->
