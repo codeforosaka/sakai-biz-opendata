@@ -1165,11 +1165,6 @@
     "image": "https://img.sakacil.com/data/20211210/18bb7392-7e16-4434-a167-e8c638c8b48f.jpg"
   },
   {
-    "name": "株式会社ジャパンアミューズクリエーション",
-    "companyId": "3120101029304",
-    "image": "https://img.sakacil.com/data/20220110/72bc5832-5a2c-40e8-bba8-b38a795f4dfc.jpg"
-  },
-  {
     "name": "クリーン＆フェア不動産株式会社",
     "companyId": "3120101029428",
     "image": "https://img.sakacil.com/data/20220520/2a46e62a-c951-4f67-9866-16859913badb.jpg"
@@ -2643,6 +2638,11 @@
     "name": "日本アクセル株式会社",
     "companyId": "7120101059859",
     "image": "https://img.sakacil.com/data/20211221/66b6baa1-d617-4550-85ef-226819bbe886.jpeg"
+  },
+  {
+    "name": "株式会社エイトノット",
+    "companyId": "7120101063225",
+    "image": "https://img.sakacil.com/data/20241218/3469f8d4-c1e1-47ce-9780-c5c7f8550d13.png"
   },
   {
     "name": "株式会社ＬＩＡ",
